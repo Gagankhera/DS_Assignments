@@ -3,7 +3,7 @@ Tasks for Data Scientist role
 
 Completed the following 2 tasks as part of Shack Labs DS role Assignment:
 
-House Price Prediction 
+House Price Prediction \
 Matching of Amazon and Flipkart Products
 
 Libraries & Frameworks Used\
