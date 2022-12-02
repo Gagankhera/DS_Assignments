@@ -30,12 +30,12 @@ For most of the machine learning algorithms such as Linear Regression and many c
 Unstability: Tree-based models are relatively unstable. A small change in the data can cause a large change in the structure of the decision tree causing instability.
 Non-scalability: Several boosting models such as XGBoost and Gradient Boosting models are very sensitive to outliers since every classifier is forced to fix the errors in the predecessor learners. The overall method is hardly scalable. Moreover, they don't perform well enough on sparse and unstructured data due to their internal working and underlying assumptions.
 
-Model	R2 Score (%)
-Linear Regression	78.85
-Lasso Regression 78.83
-Ridge Regression 78.52
-Random Forest Regressor 84.27
-Gradient Boosting Regressor 83.49
+Model	R2 Score (%)\
+Linear Regression	78.85\
+Lasso Regression 78.83\
+Ridge Regression 78.52\
+Random Forest Regressor 84.27\
+Gradient Boosting Regressor 83.49\
 BaggingRegressor 79.02
 
 Hyperparameter Tuning
